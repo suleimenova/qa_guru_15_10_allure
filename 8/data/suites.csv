@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jan 17 12:25:41 GMT 2023","Tue Jan 17 12:25:47 GMT 2023","5620","","qa.guru.allure.LambdaStepTest","","qa.guru.allure.LambdaStepTest","testLambdaStep","testLambdaStep()",""
+"passed","Tue Jan 17 12:25:47 GMT 2023","Tue Jan 17 12:25:50 GMT 2023","2640","","qa.guru.allure.SelenideListenerTest","","qa.guru.allure.SelenideListenerTest","testIssueSearch","testIssueSearch()",""
+"passed","Tue Jan 17 12:25:50 GMT 2023","Tue Jan 17 12:25:52 GMT 2023","2187","","qa.guru.allure.StepAnnotationTest","","qa.guru.allure.StepAnnotationTest","testAnnotatedStep","testAnnotatedStep()",""
